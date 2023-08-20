@@ -65,7 +65,7 @@ msgstr ""
 
 #: ../../library/logging.rst:33
 msgid "The simplest example:"
-msgstr ""
+msgstr "最簡單的例子："
 
 #: ../../library/logging.rst:41
 msgid ""
@@ -73,16 +73,20 @@ msgid ""
 "unfamiliar with logging, the best way to get to grips with it is to view the "
 "tutorials (**see the links above and on the right**)."
 msgstr ""
+"該模組提供了許多功能和靈活性。"
+"如果您對日誌記錄不熟悉，"
+"最好的方法是查看教程（**請參閱上方和右方的連結**）。"
 
 #: ../../library/logging.rst:45
 msgid ""
 "The basic classes defined by the module, together with their functions, are "
 "listed below."
 msgstr ""
+"該模組所定義的基本類別以及它們的函式如下所列。"
 
 #: ../../library/logging.rst:48
 msgid "Loggers expose the interface that application code directly uses."
-msgstr ""
+msgstr "日誌記錄器公開了應用程式代碼使用的介面。"
 
 #: ../../library/logging.rst:49
 msgid ""
